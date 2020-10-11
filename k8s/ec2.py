@@ -4,6 +4,7 @@
 EC2 external inventory script
 =================================
 
+
 Generates inventory that Ansible can understand by making API request to
 AWS EC2 using the Boto library.
 
