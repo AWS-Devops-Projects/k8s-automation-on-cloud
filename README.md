@@ -1,8 +1,6 @@
 ## Creating a sample kubernetes environment with istio service mesh on AWS 
 
 
-
-
 Microservices have become a popular architectural style for building cloud-native applications that are self-contained, independently deployable, resilient and quickly evolve. Additionally, Istio makes it easy to create a network of deployed services with load balancing, service-to-service authentication, monitoring.
 
 ---
